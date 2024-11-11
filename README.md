@@ -1,0 +1,2 @@
+**Advanced Web Scraper with JavaScript and JWT Authentication Support**  
+A customized web scraping tool for a specific website that utilizes JavaScript-based login and JWT security. This repository is equipped to handle JWT token management, simulate user login flows, and interact with dynamically loaded content, providing an effective solution for extracting data from complex, modern web applications.
